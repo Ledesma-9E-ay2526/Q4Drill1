@@ -1,0 +1,23 @@
+.main {
+     display: flex;
+    gap: 10px;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+    background-color: lightpink;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.maintext, .maincontent {
+    width: 35%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url(HelloKiitykWh.png);
+}
